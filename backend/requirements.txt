@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+google-genai
+numpy
+pypdf
+langchain-text-splitters
+pydantic-settings
